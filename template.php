@@ -14,7 +14,7 @@
         <input type="submit" value="Get currency rate">
     </form>
     <p>
-        Currency rate:
+         Currency rate:
     </p>
     <?php
         if ($curRate != '')
